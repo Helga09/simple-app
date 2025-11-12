@@ -1,0 +1,9 @@
+{
+  "name": "nixpacks-node-web",
+  "version": "1.0.0",
+  "description": "Simple web app for Nixpacks demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
